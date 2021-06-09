@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smile FireBase</string>
+    <string name="auth_failed" />
+    <string name="minimum_password" />
+</resources>

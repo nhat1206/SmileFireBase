@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355527460193",
+    "project_id": "smile-77395",
+    "storage_bucket": "smile-77395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355527460193:android:112a7f6a0d0cf2a8e1b120",
+        "android_client_info": {
+          "package_name": "com.example.smilefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355527460193-gvfqjalkfa62ssp3mrhaqtdojkajljtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeFpeiIVRFfZm59J4QowGnfJTVYtvpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355527460193-gvfqjalkfa62ssp3mrhaqtdojkajljtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

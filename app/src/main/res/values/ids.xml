@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTypePass" type="id" />
+    <item name="editEmail" type="id" />
+    <item name="editTypePassAgain" type="id" />
+    <item name="textView5" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="imageView6" type="id" />
+    <item name="editYourName" type="id" />
+    <item name="btnRegister_Register" type="id" />
+    <item name="imageView16" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView9" type="id" />
+    <item name="signIn_Register" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="imageView7" type="id" />
+    <item name="textView3" type="id" />
+    <item name="imageView8" type="id" />
+    <item name="imageView9" type="id" />
+    <item name="imageView10" type="id" />
+    <item name="editEmail_SignIn" type="id" />
+    <item name="editPass_SignIn" type="id" />
+    <item name="btnSignIn_SignIn" type="id" />
+    <item name="imageView12" type="id" />
+    <item name="textView" type="id" />
+    <item name="imageView13" type="id" />
+    <item name="textView2" type="id" />
+    <item name="register_SignIn" type="id" />
+    <item name="progressBar2" type="id" />
+</resources>
